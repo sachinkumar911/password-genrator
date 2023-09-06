@@ -334,7 +334,7 @@ html,body{
 
 
 }
-@media (width>1500px)
+@media (width<2500px)
 {
     .conatainer .heading{
         font-size: 3rem;
